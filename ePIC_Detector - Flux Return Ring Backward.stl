@@ -1,0 +1,58 @@
+solid Mesh
+  facet normal -1 0 0
+    outer loop
+      vertex 70.7375 164.813 111.138
+      vertex 70.7375 164.813 114.949
+      vertex 70.7375 174.975 111.138
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex 70.7375 164.813 114.949
+      vertex 70.7375 174.975 114.949
+      vertex 70.7375 174.975 111.138
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 70.7375 174.975 114.949
+      vertex 74.5487 174.975 111.138
+      vertex 70.7375 174.975 111.138
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 74.5487 164.813 111.138
+      vertex 70.7375 164.813 111.138
+      vertex 74.5487 174.975 111.138
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 70.7375 164.813 111.138
+      vertex 70.7375 174.975 111.138
+      vertex 74.5487 174.975 111.138
+    endloop
+  endfacet
+  facet normal 0.707107 0 0.707107
+    outer loop
+      vertex 74.5487 164.813 111.138
+      vertex 74.5487 174.975 111.138
+      vertex 70.7375 164.813 114.949
+    endloop
+  endfacet
+  facet normal 0.707107 0 0.707107
+    outer loop
+      vertex 74.5487 174.975 111.138
+      vertex 70.7375 174.975 114.949
+      vertex 70.7375 164.813 114.949
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 70.7375 164.813 111.138
+      vertex 74.5487 164.813 111.138
+      vertex 70.7375 164.813 114.949
+    endloop
+  endfacet
+endsolid Mesh
